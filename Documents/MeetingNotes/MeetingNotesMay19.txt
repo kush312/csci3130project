@@ -1,0 +1,14 @@
+jdbc - connection between database to java
+jpa - connection between database to java
+
+
+divide the tasks equally between the members
+
+Username/Database: csci3130_group21
+Password: rai9Boo8mo
+
+
+
+Hostname: db.cs.dal.ca
+Note: You may need VPN to connect to the database. Details on how to connect to the database are provided on https://software.library.dal.ca/index.php/
+Database server documentation: https://web.cs.dal.ca/databases

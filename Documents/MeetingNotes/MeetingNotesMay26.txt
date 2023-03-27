@@ -1,0 +1,13 @@
+Meeting minutes May 27
+
+Have front end and back end folders and skeletons in the main branch of git repository.
+Documentation folder seperately, with deliverables 1 word document with everything put together.
+
+Start working on deliverables 2, implement user features first. Start early, and keep up.
+Keep track of who does what, can use the Git board.
+Keep minutes of each weekly meeting, rotate notetaker.
+
+People should try both front and back end developments. Can be split 60/40 or 70/30 depending on preference, to allow some specialization.
+
+Missing members Nikita will reach out, more at the start of next week.
+Add Banner numbers to deliverables 1 document.

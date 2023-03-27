@@ -1,0 +1,15 @@
+Project Name,Package Name,Type Name,Code Smell,,,Refactor,
+group21-dev,ca.dal.Maverick.board.controller,BoardController,Unutilized Abstraction,,,Yes,It used for front end in group21-dev\group21-dev\FrontEnd\src\components\board-card\EditBoardModal.js
+group21-dev,ca.dal.Maverick.config,AuthenticationFilter,Unutilized Abstraction,,,,
+group21-dev,ca.dal.Maverick.config,AuthenticationProviders,Deficient Encapsulation,,,,
+group21-dev,ca.dal.Maverick.config,HttpConfigurer,Unutilized Abstraction,,,,
+group21-dev,ca.dal.Maverick.config,SecurityConfiguration,Unutilized Abstraction,,,NO,Security is not the point
+group21-dev,ca.dal.Maverick.constant,ApplicationConstant,Unnecessary Abstraction,,,,
+group21-dev,ca.dal.Maverick.constant,ApplicationConstant,Unutilized Abstraction,,,,
+group21-dev,ca.dal.Maverick.constant,ApplicationConstant,Deficient Encapsulation,,,,
+group21-dev,ca.dal.Maverick,MaverickApplicationTests,Unutilized Abstraction,,,No,It is test
+group21-dev,ca.dal.Maverick.user.controller,UserController,Unutilized Abstraction,,,,
+group21-dev,ca.dal.Maverick.user.service,UserServiceTest,Unutilized Abstraction,,,No,It is test for UserService
+group21-dev,ca.dal.Maverick.workspace.controller,WorkSpaceController,Unutilized Abstraction,,,,
+group21-dev,ca.dal.Maverick.board,BoardServiceTest,Unutilized Abstraction,,,No,It is test for BoardController
+group21-dev,ca.dal.Maverick.workspace,WorkSpaceServiceTest,Unutilized Abstraction,,,No,It is test for WorkSpaceService

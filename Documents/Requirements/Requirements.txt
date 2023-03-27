@@ -1,0 +1,31 @@
+Trello requirements
+
+1. User Management
+	a. Sign-up: Register/Sign-up a user through their email address and a password. Follow basic password validation by having a minimum length of 8 characters, at least 1 uppercase character, 1 lowercase character, 1 number and 1 special character.
+	b. Login: A user must be able to login through their registered email address and password.
+	c. Forgot password: Reset the user’s password in your database through this functionality.
+	
+2. Create a workspace and boards
+Workspace: A workspace is something that can hold multiple boards. For e.g., CSCI 3130 Workspace can have a board for planning the syllabus, classes and tutorials, or a board for each project group.
+Board: A board contains tasks which will be displayed in the form of cards. Each task would have a status as To-Do, Doing or Done. For e.g., your group project has several features and each one has some tasks. You can create a card for each task and assign it a status. This way you will be able to track how many tasks you have completed or are yet to complete.
+The following features are expected w.r.t. workspace and board.
+	a. Create a workspace
+	b. Add members to your workspace
+	c. Update workspace details
+	d. Create a board inside the workspace
+	e. Delete a board
+	
+3. Task management
+	a. Create tasks in the form of cards. Note that tasks are a part of boards and workspaces contain one or more boards
+	b. Assign a task to a particular member belonging to the workspace
+	c. Change the status of the task. For e.g., move it from To-Do to Doing
+	d. Create a date field and set a date of completion
+	
+4. Search and filter
+	a. Search for task cards based on task names
+	b. Filter based on member names, cards assigned to the logged in user and date of completion
+	
+Optional features
+1. Analytics: Display the number of users currently working on open issues, i.e., tasks which are not in Done state
+2. Notification and alerts: Send emails on the tasks that are in progress and must be done by the next day
+3. Role based access: Create roles like Project Manager and Developer. A project manager is responsible for creating workspaces, boards, and adding members to a workspace. Developers can create tasks, assign them, and change their status.

@@ -1,0 +1,8 @@
+ER Diagram start
+
+Trello is a place to organize and assign tasks to users. 
+Each user is identified by an email, and has a password. 
+A workspace can hold multiple boards, each board is associated with one workspace. Each workspace can have multiple users associated, and each user can be a member of multiple workspaces.
+A user is identified by an email and a unique password.
+Each board contains multiple tasks, each task is a part of one board. A task has a name, status, assigned user, and a date of completion.
+
